@@ -123,6 +123,8 @@ module.exports = {
           branch: 'releases/comm-esr78',
           repo: 'https://hg.mozilla.org/releases/comm-esr78',
           enableReleaseEta: false,
+          alternativeBranch: 'releases/comm-esr68',
+          alternativeRepo: 'https://hg.mozilla.org/releases/comm-esr68',
           disableable: false,
         },
       ],
